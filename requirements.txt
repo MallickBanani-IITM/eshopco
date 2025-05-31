@@ -1,3 +1,7 @@
 fastapi
 uvicorn
 pydantic
+openai
+beautifulsoup4
+python-multipart
+aiofiles
